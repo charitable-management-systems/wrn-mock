@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{syWp:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),c=a("Bl7J");t.default=function(){var e=r.a.useState(!0),t=e[0],a=e[1];return r.a.createElement(c.a,{noHero:!0},r.a.createElement("br",null),t&&r.a.createElement("div",{style:{textAlign:"center"}},"Loading..."),r.a.createElement("iframe",{src:"https://apply.gmsac.com/application/",frameborder:"0",width:"100%",height:"600px",onLoad:function(){return a(!1)}}))}}}]);
+//# sourceMappingURL=component---src-pages-apply-js-e007ac43dfb42ede9c76.js.map
