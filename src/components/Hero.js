@@ -1,9 +1,14 @@
 import React from 'react'
 import "./Hero.scss"
-import heroImg from "../images/hero.png"
+import heroImg from "../images/hero.jpg"
 
 const Hero = () => (
-  <section className="Hero" style={{backgroundImage: `url('.${heroImg}')`}}>
+  <section 
+    className="Hero" 
+    style={{ backgroundImage: `url('.${heroImg}')`, 
+    backgroundSize: 'cover', 
+    backgroundPosition: 'top' }}
+  >
   </section>
 )
 

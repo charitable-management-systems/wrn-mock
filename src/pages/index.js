@@ -7,6 +7,7 @@ import About from "../components/containers/About"
 import Apply from "../components/containers/Apply"
 import Contact from "../components/containers/Contact"
 import Eligibility from "../components/containers/Eligibility"
+import Selection from "../components/containers/Selection"
 
 const IndexPage = () => (
   <Layout>
@@ -15,6 +16,8 @@ const IndexPage = () => (
     <About />
     <a name="Eligibility"></a>
     <Eligibility />
+    <a name="Selection"></a>
+    <Selection />
     <a name="Apply"></a>
     <Apply />
     <a name="Contact"></a>

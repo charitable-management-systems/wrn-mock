@@ -7,7 +7,7 @@ const Contact = () => (
     <div class="info-segment-content">
       <h1>Contact</h1>
       <p>
-        CMS Foundation - WRN Scholarship Program<br/>
+        GM WRN Drive to Succeed Scholarship Program<br/>
         PO Box 648<br/>
         Naperville, IL 60566
       </p>

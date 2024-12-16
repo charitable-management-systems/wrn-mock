@@ -6,13 +6,14 @@ const About = () => (
   <div class="background-gm-blue">
     <div class="info-segment-content">
       <h1>About</h1>
-      <p>Since 1972, GM has provided leading opportunities to qualified minorities to help prepare them to
-        become dealers and to help them succeed once they become dealers. GM is committed to "Changing
-        the Face of Automotive Retail."</p>
-      <p>Within the GM Women's Retail Network, we recognize the immense value that diversity brings to the 
-        automotive industry, and we are committed to fostering an inclusive environment where women can thrive and excel. 
-        Through this scholarship initiative, we aim to provide financial assistance, mentorship, and networking opportunities 
-        to talented women who aspire to build successful careers in automotive retail.</p>
+      <p>
+        The retail automotive business offers exciting opportunities and challenges. 
+        Once regarded as "a man's business," today some 1000 women in the US are successful 
+        dealer owners / operators; and many more have found very satisfying careers as Executive 
+        Managers / Directors and staff employees in sales, service and parts operations within dealerships.
+        The Drive to Succeed Scholarship Program, sponsored by the GM Women's Retail Network, is intended to 
+        increase opportunities for women in automotive retail.  We encourage all interested women to apply.
+      </p>
     </div>
   </div>
 );

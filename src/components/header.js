@@ -31,12 +31,11 @@ class Header extends React.Component {
                 <div className="menu">
                     <div className="menuIcon"><Menu onClick={this.toggleMenu} /></div>
                     <div className={this.menuClasses()}>
-                      <a className="menuItem" onClick={notOpen} style={{'cursor': 'pointer'}}>Apply</a>
-                        {/* <a className="menuItem" href="https://apply.gmmddscholarship.com/application/login">Apply</a> */}
-                        <a className="menuItem" onClick={this.toggleMenu}  href="#About">About</a>
-                        <a className="menuItem" onClick={this.toggleMenu}  href="#Eligibility">Eligibility</a>
-                        <a className="menuItem" onClick={this.toggleMenu}  href="#Apply">Application Process</a>
-                        <a className="menuItem" onClick={this.toggleMenu}  href="#Contact">Contact</a>
+                        <a className="menuItem" href="https://charitable-management-systems.github.io/wrn-mock/apply">Apply</a>
+                        <a className="menuItem" onClick={this.toggleMenu}  href="https://charitable-management-systems.github.io/wrn-mock/#About">About</a>
+                        <a className="menuItem" onClick={this.toggleMenu}  href="https://charitable-management-systems.github.io/wrn-mock/#Eligibility">Eligibility</a>
+                        <a className="menuItem" onClick={this.toggleMenu}  href="https://charitable-management-systems.github.io/wrn-mock/#Apply">Application Process</a>
+                        <a className="menuItem" onClick={this.toggleMenu}  href="https://charitable-management-systems.github.io/wrn-mock/#Contact">Contact</a>
                     </div>
                 </div>
             </div>
